@@ -8,6 +8,7 @@ and this project was referenced the Timothy Ruscica's initial idea using NEAT to
 It would need pygame and neat two python Module.
 
 > pip install pygame
+
 > pip install neat
 
 # How to play
